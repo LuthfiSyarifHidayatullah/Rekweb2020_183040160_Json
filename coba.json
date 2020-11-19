@@ -1,0 +1,12 @@
+[
+ {
+     "nama" : "Luthfi syarif",
+     "umur" : "32",
+     "nrp" :"183040160", 
+     "lulus" : true , 
+     "hobby" : [
+         "coding",
+         "gaming"
+     ]
+     }
+ ]
